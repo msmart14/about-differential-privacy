@@ -1,5 +1,5 @@
 # Learn More About Differential Privacy
-Differential privacy provides a way for people to learn from aggregate data while protecting individuals’ privacy. Below we provide links to resources for anyone interested in learning more about differential privacy.
+Differential privacy provides a way for people to learn from aggregate data while protecting individuals’ privacy. The links below are resources for anyone interested in learning more about differential privacy.
 
 ## The Basics
 - Differentially-private mechanisms add random noise to data in order to protect privacy. This resource helps explain how randomization can help with privacy:  
